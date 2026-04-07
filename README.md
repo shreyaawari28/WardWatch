@@ -156,9 +156,9 @@ cd WardWatch
 
 ---
 
-## ⭐ Support
+⭐ Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
+If this project added value, consider starring the repository to support its visibility and development.
 
 ---
 
